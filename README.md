@@ -1,4 +1,4 @@
-# Problem 1.7: Platform Cost Predictor
+# Problem 1.7: Platform Cost Calculator
 
 ## Submission instructions
 
